@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.10.1](https://github.com/InioX/matugen/compare/matugen-v0.10.0...matugen-v0.10.1) - 2023-08-17
+
+### Other
+- update note markdown
+- *(nixos)* add specific version for flake
+- move some stuff into their own functions
+
 ## [0.10.0](https://github.com/InioX/matugen/compare/matugen-v0.9.0...matugen-v0.10.0) - 2023-08-15
 
 ### Added
